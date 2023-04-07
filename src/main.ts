@@ -1,6 +1,6 @@
 import Vue from 'vue';
 import App from './App.vue';
-import store from '../src/store/index';
+import store from '../src/store';
 import router from './router'
 
 // 取消Vue的警告
